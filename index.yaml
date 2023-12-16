@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-chart-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-16T18:40:26.589253386-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 887cb8aaf4e7a227c7985a99c50f8bd0931a6dbd407d170df2c8eec64c538b46
+    name: helm-chart-test
+    type: application
+    urls:
+    - https://github.com/Montra-Solutions/helm-charts/charts/helm-chart-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-16T18:40:26.587763961-05:00"
